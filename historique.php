@@ -44,4 +44,3 @@ if (file_exists("scores.json")) {
   <?php endif; ?>
 </body>
 </html>
-gr
